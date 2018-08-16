@@ -1,0 +1,4 @@
+test-profile,lun, 6 ago 2018 23:59:52 CLT
+Class,B,CBO,CLOC,COM_RAT,Command,Cons,CSA,CSO,CSOA,Cyclic,D,Dcy,Dcy*,DIT,Dpt,Dpt*,E,Inner,Inner,Jf,JLOC,Jm,JTA,JTM,LCOM,Level,Level*,LOC,MPC,N,n,NAAC,NAIC,NCLOC,NOAC,NOC,NOIC,NOOC,NTP,OCavg,OCmax,OPavg,OSavg,OSmax,PDcy,PDpt,Query,RFC,STAT,SUB,TCOM_RAT,TODO,V,WMC
+"org.jivesoftware.openfire.handler.IQRegisterHandler",12,25,204,"22,79%",4,1,15,47,62,423,423,20,699,3,6,894,7.311.514,0,3,"0,00%",30,"11,76%",0,0,3,5,428,895,581,2.020,372,12,3,693,15,0,16,1,0,"5,94",70,"0,65","28,18",264,10,5,12,156,479,0,"29,15%",4,17.249,101
+
